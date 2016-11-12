@@ -1,5 +1,4 @@
 #include<stdio.h>
-using namespace std;
 #define ll long long
 ll ar[45];
 int i,tc,n;
